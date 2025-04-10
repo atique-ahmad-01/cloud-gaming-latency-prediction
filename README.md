@@ -1,10 +1,10 @@
 # cloud-gaming-latency-prediction
 This repository contains a latency prediction model for cloud gaming networks, utilizing machine learning techniques to analyze and predict network latency based on real-world dataset measurements.
 
-#📊 Dataset
+# 📊 Dataset
 The dataset used in this project is from IEEE Dataport and contains network delay measurements between 189 players and 9 servers across multiple regions: North America, South America, Europe, and East Asia. The cleaned data can be found in data/processed/main_dataset_cleaned.csv.
 
-#🚀 Running the Project
+# 🚀 Running the Project
 1. Preprocess Data
 Run the preprocessing steps to clean and prepare the dataset:
 ```
